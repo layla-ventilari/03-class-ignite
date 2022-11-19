@@ -6,7 +6,7 @@ import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./styl
 
 export function Transactions(){
   useEffect(() => {
-  fetch('https://localhost:3333/transactions')
+  fetch('http://localhost:3333/transactions')
   .then(response => {
     response.text().then(data =>{
       console.log(data)
