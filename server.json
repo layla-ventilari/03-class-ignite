@@ -55,6 +55,14 @@
       "type": "outcome",
       "createdAt": "2022-11-20T02:14:23.954Z",
       "id": 7
+    },
+    {
+      "description": "Pizza",
+      "price": 100,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-11-20T17:31:06.598Z",
+      "id": 8
     }
   ]
 }
