@@ -25,44 +25,12 @@
       "createdAt": "2022-11-19T02:40:45.839Z"
     },
     {
-      "description": "Padaria",
-      "price": 299,
-      "category": "lanche",
-      "type": "outcome",
-      "createdAt": "2022-11-20T01:13:14.154Z",
-      "id": 4
-    },
-    {
-      "description": "Desenvolvimento de app",
-      "price": 2000,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2022-11-20T01:22:02.923Z",
-      "id": 5
-    },
-    {
-      "description": "Mobile Developer",
-      "price": 15000,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2022-11-20T01:26:30.070Z",
-      "id": 6
-    },
-    {
-      "description": "melancia",
-      "price": 4,
-      "category": "Alimentação",
-      "type": "outcome",
-      "createdAt": "2022-11-20T02:14:23.954Z",
-      "id": 7
-    },
-    {
       "description": "Pizza",
       "price": 100,
-      "category": "Alimentação",
+      "category": "Food",
       "type": "outcome",
-      "createdAt": "2022-11-20T17:31:06.598Z",
-      "id": 8
+      "createdAt": "2022-11-20T17:47:48.179Z",
+      "id": 4
     }
   ]
 }
