@@ -4,8 +4,6 @@
  
 **Development React and TypeScript**
 
-## Features
-
 * Styling - Styled Components
 * Contexts - Context API
 * Reducer
