@@ -1,4 +1,5 @@
-![dtmoney](https://user-images.githubusercontent.com/99200113/202918026-323604bb-85cd-4242-bdd3-cfb12b3b2394.gif)
+![Screenshot from 2023-05-06 18-02-10](https://user-images.githubusercontent.com/99200113/236649735-b7432dea-84a7-441c-b144-dc6ba9191aab.png)
+
 
 # DT Money
 
