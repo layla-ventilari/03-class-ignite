@@ -13,7 +13,7 @@ export const SummaryContainer = styled.section`
   margin-top: -5rem;
 `;
 interface SummarCardProps {
-  variant?: 'green';
+  variant?: 'lavender';
 }
 
 export const SummaryCard = styled.div<SummarCardProps>`
@@ -34,7 +34,7 @@ export const SummaryCard = styled.div<SummarCardProps>`
     font-size: 2rem;
   }
 
-  ${props => props.variant === 'green' && css `
-    background: ${props.theme['green-700']};
+  ${props => props.variant === 'lavender' && css `
+    background: ${props.theme['lavender-700']};
   `}
 `;

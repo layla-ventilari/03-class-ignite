@@ -42,7 +42,7 @@ form{
   button[type="submit"]{
     height: 58px;
     border: 0;
-    background: ${props => props.theme["green-500"]};
+    background: ${props => props.theme["lavender-500"]};
     color: ${props => props.theme.white};
     font-weight: bold;
     padding: 0 1.25rem;
@@ -56,7 +56,7 @@ form{
     }
 
     &:not(:disabled):hover{
-      background: ${props => props.theme['green-700']};
+      background: ${props => props.theme['lavender-700']};
       transition: background-color 0.2s;
     }
   }
@@ -108,7 +108,7 @@ export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionTypeButt
 
   &[data-state='checked']{
     color: ${props => props.theme.white};
-    background: ${props => props.variant === 'income' ? props.theme["green-500"] : props.theme["red-500"]};
+    background: ${props => props.variant === 'income' ? props.theme["lavender-400"] : props.theme["lavender-400"]};
   svg {
     color: ${props => props.theme.white};
   }
